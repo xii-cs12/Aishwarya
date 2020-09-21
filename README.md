@@ -1,9 +1,7 @@
-# aishu.com
+# Aishwarya
 
+I'm proud to say I'm a KV student
 
+As kv student I'm proud to host a website now
 
-Hi everyone!!!
-
-*This is my new website and my own website which was created by myself*
-
-thanks for everyone who helped me
+*************
